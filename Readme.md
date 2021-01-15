@@ -3,7 +3,7 @@ Test repo for filecoin polling tool
 Issues added will be converted to polls, if they respect the following template:
 
 ```
-< POLL_DESCRIPTION >
+POLL_DESCRIPTION
 
 ---
  Options:

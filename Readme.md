@@ -13,7 +13,9 @@ POLL_DESCRIPTION
 ---
 start: YYYY-MM-DD HH:MM
 end: YYYY-MM-DD HH:MM
-constituents: [ all | countInMultipleGroups | tokenholders | storageminers | ecosystempartners | appdevs | coredevs | storageclients ]'
+constituents: [ all | countInMultipleGroups | tokenholders | storageminers | ecosystempartners | appdevs | coredevs | storageclients ]
+author: AUTHOR_NAME
+discussion: LINK_TO_GH_DISCUSSION
 ```
 
 Options represent the vote options for the poll. Each option has a label and a description. We automatically add an `Abstain` option to the list.

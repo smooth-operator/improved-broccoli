@@ -1,0 +1,23 @@
+ "22": {
+        "Proposal": {
+            "PieceCID": {
+                "/": "baga6ea4seaqao7s73y24kcutaosvacpdjgfe5pw76ooefnyqw4ynr3d2y6x2mpq"
+            },
+            "PieceSize": 34359738368,
+            "VerifiedDeal": true,
+            "Client": "t0100",
+            "Provider": "t01001",
+            "Label": "|bagboea4b5abcalqq3avzdqt6jm5klhpjdyvob75fzttk3dz3i35zqh2cknwb2mze|BH+ucQMYeoEbt9cz3Ez+S3E/fR5+twKU/wbP940qapnHJw2jcrw=|",
+            "StartEpoch": 0,
+            "EndEpoch": 1552977,
+            "StoragePricePerEpoch": "0",
+            "ProviderCollateral": "0",
+            "ClientCollateral": "0"
+        },
+        "State": {
+            "SectorStartEpoch": 0,
+            "LastUpdatedEpoch": 1296019,
+            "SlashEpoch": 1316877,
+            "VerifiedClaim": 0
+        }
+    }

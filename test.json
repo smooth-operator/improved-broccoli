@@ -16,9 +16,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296000,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -39,9 +39,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296001,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -62,9 +62,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296002,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -85,9 +85,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296003,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -108,9 +108,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296004,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -131,9 +131,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296005,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -154,9 +154,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296006,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -177,9 +177,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296007,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -200,9 +200,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296008,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -223,9 +223,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296009,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -246,9 +246,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296010,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -269,9 +269,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296011,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -292,9 +292,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296012,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -315,9 +315,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296013,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -338,9 +338,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296014,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -361,9 +361,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296015,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -384,9 +384,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296016,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -407,9 +407,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296017,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -430,9 +430,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296018,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     },
@@ -453,9 +453,9 @@
             "ClientCollateral": "0"
         },
         "State": {
-            "SectorStartEpoch": 0,
+            "SectorStartEpoch": 1,
             "LastUpdatedEpoch": 1296019,
-            "SlashEpoch": 1316877,
+            "SlashEpoch": 0,
             "VerifiedClaim": 0
         }
     }

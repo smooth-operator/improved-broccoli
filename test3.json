@@ -1,25 +1,30 @@
 {
-    "2": {
-        "Proposal": {
-            "PieceCID": {
-                "/": "baga6ea4seaqao7s73y24kcutaosvacpdjgfe5pw76ooefnyqw4ynr3d2y6x2mpq"
+    "error": null,
+    "next": "3",
+    "result": {
+        "2": {
+            "lastUpdate": 1296002.0,
+            "proposal": {
+                "PieceCID": {
+                    "/": "baga6ea4seaqao7s73y24kcutaosvacpdjgfe5pw76ooefnyqw4ynr3d2y6x2mpq"
+                },
+                "PieceSize": 34359738368,
+                "VerifiedDeal": true,
+                "Client": "t0176902",
+                "Provider": "t0175437",
+                "Label": "|bagboea4b5abcbjlbg4kgxn572zsxheptpln2acdqxrvi2zj4xohs34w22gfomfq3|/8Ja1DXfvKH20w8pRHCVKxgcqWjAWFAMukRif6cChUJ5YnasmOq1oDfdmLfkw02bmAFPvGPyoYpAJxm/PQtwZNUqWLenx6E2nerYoJ9VyWq8LWour3GZ77/w02Kg98rDQc6rGzPDDq9Y7YB73LL+|",
+                "StartEpoch": 0,
+                "EndEpoch": 1552977,
+                "StoragePricePerEpoch": "0",
+                "ProviderCollateral": "0",
+                "ClientCollateral": "0"
             },
-            "PieceSize": 34359738368,
-            "VerifiedDeal": true,
-            "Client": "t0176902",
-            "Provider": "t0175437",
-            "Label": "|bagboea4b5abcbjlbg4kgxn572zsxheptpln2acdqxrvi2zj4xohs34w22gfomfq3|/8Ja1DXfvKH20w8pRHCVKxgcqWjAWFAMukRif6cChUJ5YnasmOq1oDfdmLfkw02bmAFPvGPyoYpAJxm/PQtwZNUqWLenx6E2nerYoJ9VyWq8LWour3GZ77/w02Kg98rDQc6rGzPDDq9Y7YB73LL+|",
-            "StartEpoch": 0,
-            "EndEpoch": 1552977,
-            "StoragePricePerEpoch": "0",
-            "ProviderCollateral": "0",
-            "ClientCollateral": "0"
-        },
-        "State": {
-            "SectorStartEpoch": 1,
-            "LastUpdatedEpoch": 1296002,
-            "SlashEpoch": 2,
-            "VerifiedClaim": 0
+            "state": {
+                "status": "unknown",
+                "publishedEpoch": 3195382,
+                "onChainStartEpoch": 3196696,
+                "onChainEndEpoch": -1
+            }
         }
     }
 }

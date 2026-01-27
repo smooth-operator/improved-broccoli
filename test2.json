@@ -1,71 +1,78 @@
 {
-    "21": {
-        "Proposal": {
-            "PieceCID": {
-                "/": "baga6ea4seaqao7s73y24kcutaosvacpdjgfe5pw76ooefnyqw4ynr3d2y6x2mpq"
+    "error": null,
+    "next": "24",
+    "result": {
+        "21": {
+            "lastUpdate": 1296018.0,
+            "proposal": {
+                "PieceCID": {
+                    "/": "baga6ea4seaqao7s73y24kcutaosvacpdjgfe5pw76ooefnyqw4ynr3d2y6x2mpq"
+                },
+                "PieceSize": 34359738368,
+                "VerifiedDeal": true,
+                "Client": "t0176902",
+                "Provider": "t0176903",
+                "Label": "|bagboea4b5abcb7tjq2qiddebmd5ujl546sdtkpzfjztuw4n32xc7qduhnteunki6|ntHwJ0ilUo3wN3Lyo7xHcbXmPV1QGTpwV+TI5PG86UmojA+VpXRWV7/kc46awaZ/IDZzvYwnwoeXUziAbSRhqll+papMD8QjQzHpqPMbyJE2I5YbPC6oPhFnSpeUh2NWE7jE/yJr4F3ta9va+3G4|",
+                "StartEpoch": 0,
+                "EndEpoch": 1552977,
+                "StoragePricePerEpoch": "0",
+                "ProviderCollateral": "0",
+                "ClientCollateral": "0"
             },
-            "PieceSize": 34359738368,
-            "VerifiedDeal": true,
-            "Client": "t0176902",
-            "Provider": "t0176903",
-            "Label": "|bagboea4b5abcb7tjq2qiddebmd5ujl546sdtkpzfjztuw4n32xc7qduhnteunki6|ntHwJ0ilUo3wN3Lyo7xHcbXmPV1QGTpwV+TI5PG86UmojA+VpXRWV7/kc46awaZ/IDZzvYwnwoeXUziAbSRhqll+papMD8QjQzHpqPMbyJE2I5YbPC6oPhFnSpeUh2NWE7jE/yJr4F3ta9va+3G4|",
-            "StartEpoch": 0,
-            "EndEpoch": 1552977,
-            "StoragePricePerEpoch": "0",
-            "ProviderCollateral": "0",
-            "ClientCollateral": "0"
+            "state": {
+                "status": "unknown",
+                "publishedEpoch": 3195382,
+                "onChainStartEpoch": 3196696,
+                "onChainEndEpoch": -1
+            }
         },
-        "State": {
-            "SectorStartEpoch": 1,
-            "LastUpdatedEpoch": 1296018,
-            "SlashEpoch": 1316877,
-            "VerifiedClaim": 0
-        }
-    },
-    "22": {
-        "Proposal": {
-            "PieceCID": {
-                "/": "baga6ea4seaqao7s73y24kcutaosvacpdjgfe5pw76ooefnyqw4ynr3d2y6x2mpq"
+        "22": {
+            "lastUpdate": 1296019.0,
+            "proposal": {
+                "PieceCID": {
+                    "/": "baga6ea4seaqao7s73y24kcutaosvacpdjgfe5pw76ooefnyqw4ynr3d2y6x2mpq"
+                },
+                "PieceSize": 34359738368,
+                "VerifiedDeal": true,
+                "Client": "t0176902",
+                "Provider": "t0176903",
+                "Label": "|bagboea4b5abcalqq3avzdqt6jm5klhpjdyvob75fzttk3dz3i35zqh2cknwb2mze|ntHwJ0ilUo3wN3Lyo7xHcbXmPV1QGTpwV+TI5PG86UmojA+VpXRWV7/kc46awaZ/IDZzvYwnwoeXUziAbSRhqll+papMD8QjQzHpqPMbyJE2I5YbPC6oPhFnSpeUh2NWE7jE/yJr4F3ta9va+3G4|",
+                "StartEpoch": 1,
+                "EndEpoch": 1552977,
+                "StoragePricePerEpoch": "0",
+                "ProviderCollateral": "0",
+                "ClientCollateral": "0"
             },
-            "PieceSize": 34359738368,
-            "VerifiedDeal": true,
-            "Client": "t0176902",
-            "Provider": "t0176903",
-            "Label": "|bagboea4b5abcalqq3avzdqt6jm5klhpjdyvob75fzttk3dz3i35zqh2cknwb2mze|ntHwJ0ilUo3wN3Lyo7xHcbXmPV1QGTpwV+TI5PG86UmojA+VpXRWV7/kc46awaZ/IDZzvYwnwoeXUziAbSRhqll+papMD8QjQzHpqPMbyJE2I5YbPC6oPhFnSpeUh2NWE7jE/yJr4F3ta9va+3G4|",
-            "StartEpoch": 1,
-            "EndEpoch": 1552977,
-            "StoragePricePerEpoch": "0",
-            "ProviderCollateral": "0",
-            "ClientCollateral": "0"
+            "state": {
+                "status": "unknown",
+                "publishedEpoch": 3195382,
+                "onChainStartEpoch": 3196696,
+                "onChainEndEpoch": -1
+            }
         },
-        "State": {
-            "SectorStartEpoch": 0,
-            "LastUpdatedEpoch": 1296019,
-            "SlashEpoch": 1316877,
-            "VerifiedClaim": 0
-        }
-    },
-    "23": {
-        "Proposal": {
-            "PieceCID": {
-                "/": "baga6ea4seaqao7s73y24kcutaosvacpdjgfe5pw76ooefnyqw4ynr3d2y6x2mpq"
+        "23": {
+            "lastUpdate": 1296019.0,
+            "proposal": {
+                "PieceCID": {
+                    "/": "baga6ea4seaqao7s73y24kcutaosvacpdjgfe5pw76ooefnyqw4ynr3d2y6x2mpq"
+                },
+                "PieceSize": 34359738368,
+                "VerifiedDeal": true,
+                "Client": "t0176902",
+                "Provider": "t0176903",
+                "Label": "|bagboea4b5abcalqq3avzdqt6jm5klhpjdyvob75fzttk3dz3i35zqh2cknwb2mze|ntHwJ0ilUo3wN3Lyo7xHcbXmPV1QGTpwV+TI5PG86UmojA+VpXRWV7/kc46awaZ/IDZzvYwnwoeXUziAbSRhqll+papMD8QjQzHpqPMbyJE2I5YbPC6oPhFnSpeUh2NWE7jE/yJr4F3ta9va+3G4|",
+                "StartEpoch": 0,
+                "EndEpoch": 1552977,
+                "StoragePricePerEpoch": "0",
+                "ProviderCollateral": "0",
+                "ClientCollateral": "0"
             },
-            "PieceSize": 34359738368,
-            "VerifiedDeal": true,
-            "Client": "t0176902",
-            "Provider": "t0176903",
-            "Label": "|bagboea4b5abcalqq3avzdqt6jm5klhpjdyvob75fzttk3dz3i35zqh2cknwb2mze|ntHwJ0ilUo3wN3Lyo7xHcbXmPV1QGTpwV+TI5PG86UmojA+VpXRWV7/kc46awaZ/IDZzvYwnwoeXUziAbSRhqll+papMD8QjQzHpqPMbyJE2I5YbPC6oPhFnSpeUh2NWE7jE/yJr4F3ta9va+3G4|",
-            "StartEpoch": 0,
-            "EndEpoch": 1552977,
-            "StoragePricePerEpoch": "0",
-            "ProviderCollateral": "0",
-            "ClientCollateral": "0"
-        },
-        "State": {
-            "SectorStartEpoch": 1,
-            "LastUpdatedEpoch": 1296019,
-            "SlashEpoch": 0,
-            "VerifiedClaim": 0
+            "state": {
+                "status": "unknown",
+                "publishedEpoch": 3195382,
+                "onChainStartEpoch": 3196696,
+                "onChainEndEpoch": -1
+            }
         }
     }
 }
